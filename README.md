@@ -1,11 +1,27 @@
-# 2-3-CSS-Selecting-by-Class <br>
+# 2-1-CSS-Basics <br>
 
-## Video
-[CSS Selecting by Class](https://youtu.be/xiGguPT09sQ) <-- Make sure to watch this video first
+## Video 
+[CSS Basics](https://youtu.be/dC34rfY8Eyk)<-- Make sure to watch this video first
 
 ## Directions 
-### Step #1 - Color those classes <br>
-This webpage displays the lyrics for a song about apples and bananas. There are already classes on most of the words about apples and bananas, but there is no style for those classes yet. Add two style rules, one that sets a color for the 'apples' class and another that sets a color for the 'bananas' class.
+### Step 1 - Pick a creature <br>
+Let's have you make a webpage about an awesome animal, and color the webpage to look like it.
+<br>
+For this first step, add add an image to the page that shows the animal, and then fill in the paragraph with information about it
 <br><br>
-### Step #2 - Add more classes <br>
-The final line of the song has no classes on the `<strong>` tags! Add the 'apples' class to the first `<strong>` in that line, and the 'bananas' class to the second `<strong>` in it.
+### Step 2 - Add a style tag<br>
+Now we want to add some CSS, but there's no `<style>` tag in this page yet. Add one inside the `<head>`, just below your `<title>` tag.
+<br><br>
+### Step 3 - Match the background<br>
+Now add a CSS rule to change the background of the whole page, inspired by the creature's colors.
+<br><br>
+
+***** Color Picker Alternate *******<br>
+(https://htmlcolorcodes.com/)<br>
+^In the video a color picker appears, we do not have that in replit.  Instead you can search for HTML Colors to get access to color values.<br>
+<br>
+### Step 4 - Match the text color<br>
+Now add a CSS rule to change the color of the paragraph, inspired by the creature's colors.
+<br><br>
+### Step 5 - Match the heading color<br>
+Finally, add a CSS rule to change the color of the heading, inspired by the creature's colors.
